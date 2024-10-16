@@ -6,7 +6,7 @@ Machine Learning (ML) is a pivotal branch of artificial intelligence (AI) that f
 
   Machine Learning (ML)   is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. By leveraging data, ML algorithms can identify patterns, make predictions, and facilitate decision-making processes.
 
-    Categories of Machine Learning
+Categories of Machine Learning
 
 1\.   *Supervised Learning:*   Involves training models on labeled data.  
 2\.   *Unsupervised Learning:*   Deals with unlabeled data to find hidden structures.  
@@ -14,9 +14,8 @@ Machine Learning (ML) is a pivotal branch of artificial intelligence (AI) that f
 
 **2\. Supervised Learning**  
 Definition
-
 Supervised Learning is a type of ML where the model is trained on a labeled dataset. Each training example consists of an input vector and a corresponding target output. The primary goal is to learn a mapping from inputs to outputs, enabling the model to predict outcomes for new, unseen data accurately.  
-![][image1]
+[![][image1]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fsupervised-machine-learning&psig=AOvVaw3UmlwF_wdyG0CRYyxJ_K5d&ust=1729136875369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCN7fz-kYkDFQAAAAAdAAAAABAE)
 
       
 Types of Supervised Learning
@@ -80,9 +79,8 @@ Applications
 
 **3\. Unsupervised Learning**  
 Definition
-
 Unsupervised Learning involves training models on datasets without explicit labels. The objective is to uncover hidden structures, patterns, or relationships within the data, facilitating insights and data organization.  
-![][image2]  
+[![][image2]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FUnsupervised-Learning_fig2_355128875&psig=AOvVaw0UJwBEvMdrMYbws2Cg91e2&ust=1729135504686000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCD4f35kYkDFQAAAAAdAAAAABAk)  
 Types of Unsupervised Learning  
 1\.   *Clustering:*   Grouping similar data points together.  
 2\.   *Dimensionality Reduction:*   Reducing the number of random variables under consideration.  
