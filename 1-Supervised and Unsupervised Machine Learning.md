@@ -16,7 +16,7 @@ Categories of Machine Learning
 Definition
 Supervised Learning is a type of ML where the model is trained on a labeled dataset. Each training example consists of an input vector and a corresponding target output. The primary goal is to learn a mapping from inputs to outputs, enabling the model to predict outcomes for new, unseen data accurately.  
 
-![supervised-machine-learning](https://github.com/user-attachments/assets/32904e31-5606-44b2-ae6d-0b2b45ad6361)
+![1_Iz7bCLrPTImnBDOOEyE3LA](https://github.com/user-attachments/assets/dbf6e2d8-3f10-4404-a38f-b21c4e628ad7)
       
 Types of Supervised Learning
 
