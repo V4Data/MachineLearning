@@ -167,6 +167,9 @@ Applications
 **5\. Hybrid Approaches**  
 Semi-Supervised Learning   and   Self-Supervised Learning   are hybrid approaches that combine elements of both supervised and unsupervised learning.
 
+![Comparison-of-semi-supervised-learning-and-self-training-using-a-rule-based-classifier](https://github.com/user-attachments/assets/2610369e-e753-43c4-ba0d-86ef7cbc16d7)
+
+
 *\- Semi-Supervised Learning:*    
   \-   Description:   Utilizes a small amount of labeled data alongside a large amount of unlabeled data during training.  
   \-   Use Case:   When labeling data is expensive, but unlabeled data is abundant.  
