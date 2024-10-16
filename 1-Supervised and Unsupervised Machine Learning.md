@@ -15,8 +15,8 @@ Categories of Machine Learning
 **2\. Supervised Learning**  
 Definition
 Supervised Learning is a type of ML where the model is trained on a labeled dataset. Each training example consists of an input vector and a corresponding target output. The primary goal is to learn a mapping from inputs to outputs, enabling the model to predict outcomes for new, unseen data accurately.  
-![Unsupervised-Learning](https://github.com/user-attachments/assets/922beaf7-099b-4753-915d-d4e8e3832480)
 
+![supervised-machine-learning](https://github.com/user-attachments/assets/32904e31-5606-44b2-ae6d-0b2b45ad6361)
       
 Types of Supervised Learning
 
@@ -80,7 +80,8 @@ Applications
 **3\. Unsupervised Learning**  
 Definition
 Unsupervised Learning involves training models on datasets without explicit labels. The objective is to uncover hidden structures, patterns, or relationships within the data, facilitating insights and data organization.  
-![supervised-machine-learning](https://github.com/user-attachments/assets/32904e31-5606-44b2-ae6d-0b2b45ad6361)
+
+![Unsupervised-Learning](https://github.com/user-attachments/assets/922beaf7-099b-4753-915d-d4e8e3832480)
 
 Types of Unsupervised Learning  
 1\.   *Clustering:*   Grouping similar data points together.  
